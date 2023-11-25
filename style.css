@@ -71,3 +71,7 @@ footer a:hover {
     color:red;
     
 }
+
+table,th,td {border:3px solid black;
+border-collapse:collapse ;
+}
