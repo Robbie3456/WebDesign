@@ -115,7 +115,7 @@ table, th, td {
     padding-right: 25px;
     min-height: 50vh;
     height: max-content;
-    font-size: 15px;
+    font-size: 25px;
 }
 
 .playerstable a:hover{
@@ -125,18 +125,19 @@ table, th, td {
 .URC {
     float:left;
     width:45%;
-    border:1px solid black;
+    border:1px solid white;
 }
 
 .fix {
     float:right;
     width:45%;
-    border:1px solid red;
+    border:1px solid white;
 }
 
 .fixtable{
     border-collapse: collapse;
     border-spacing: 0;
+    
 }
 
 .fixtable td {
